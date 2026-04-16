@@ -1,7 +1,7 @@
 # Review-Insights-using-TF-IDF
 📌 Project Overview
 
-ReviewIQ is a data analytics project that transforms raw customer reviews into meaningful insights using Sentiment Analysis and TF-IDF (Term Frequency–Inverse Document Frequency).
+Review-Insights-using-TF-IDF is a data analytics project that transforms raw customer reviews into meaningful insights using Sentiment Analysis and TF-IDF (Term Frequency–Inverse Document Frequency).
 
 The goal is to understand not just what customers feel, but why they feel that way by identifying key drivers behind positive and negative feedback.
 
